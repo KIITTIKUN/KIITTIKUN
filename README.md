@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me FB: kittikun Parinyaprasert
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITTIKUN&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITTIKUN&layout=donut)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Gparin)
 <!---
 KIITTIKUN/KIITTIKUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
