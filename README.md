@@ -2,7 +2,6 @@
 - 👀 I’m interested in Business
 - 🌱 I’m currently learning Programmer Language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me FB: kittikun Parinyaprasert
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITTIKUN&layout=donut)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Gparin)
