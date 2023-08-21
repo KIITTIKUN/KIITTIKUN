@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Programmer Language
 - 💞️ I’m looking to collaborate on ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITTIKUN&layout=donut)
-<a href="https://github.com/KIITTIKUN/leetcode-solved-ploblems">![Leetcode Stats](https://leetcard.jacoblin.cool/KIITTIKUN/)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITIKUN&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/KIITTIKUN/leetcode-solved-ploblems">![LeetCode Stats](https://leetcard.jacoblin.cool/Gparin?theme=unicorn&font=Libre%20Baskerville&ext=activity)</a>
 <!---
 KIITTIKUN/KIITTIKUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
