@@ -2,7 +2,6 @@
 - 👀 I’m interested in Business
 - 🌱 I’m currently learning Programmer Language
 - 🎓 I'm graduation bachelor's degree in mathematics major at RMUTT
-- 💞️ I’m looking to collaborate on ...
 
 <a href="https://github.com/KIITTIKUN?tab=repositories">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIITTIKUN&layout=donut-vertical)<a>
 <a href="https://github.com/KIITTIKUN/leetcode-solved-problems">![LeetCode Stats](https://leetcard.jacoblin.cool/KIITTIKUN?theme=unicorn&font=Libre%20Baskerville&ext=activity)</a>
