@@ -1,8 +1,8 @@
 
 <h1 align="center" >About me</h1>
   
-- 👋 Hi, I’m @KIITTIKUN
-- 👀 I’m interested in Business
+- 👋 Hi, I’m Kittikun Parinyaprasert
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning Programmer Language
 - 🎓 I'm graduation bachelor's degree in mathematics major at RMUTT
   
