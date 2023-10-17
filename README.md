@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Kittikun Parinyaprasert
 - 👀 I’m interested in IT and Business
 - 🌱 I’m currently learning Programmer Language
-- 🎓 I'm graduation bachelor's degree in mathematics major at Rajamangala University of Technology Thanyaburi
+- 🎓 I'm graduated bachelor's degree in mathematics major at Rajamangala University of Technology Thanyaburi
   
 <div align="center">
   
